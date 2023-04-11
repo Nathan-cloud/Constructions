@@ -13973,7 +13973,7 @@ background-image: linear-gradient(
   }
 
   .title-container {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     padding-right: 15px;
     padding-left: 15px;
   }
@@ -14146,7 +14146,7 @@ background-image: linear-gradient(
     display: -ms-flexbox;
     display: flex;
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 75px;
     padding-right: 0px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -14161,7 +14161,8 @@ background-image: linear-gradient(
 
   .info-block-text {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 23px;
+    padding: 10px;
     text-align: center;
   }
 
