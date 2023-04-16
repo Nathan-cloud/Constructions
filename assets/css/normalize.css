@@ -8793,7 +8793,9 @@ background-image: linear-gradient(
   -ms-flex-align: center;
   align-items: center;
 }
-
+.about-us-quote-wrapper p{
+  font-size: 16px;
+}
 .section-with-light-background {
   padding-top: 130px;
   padding-bottom: 130px;
