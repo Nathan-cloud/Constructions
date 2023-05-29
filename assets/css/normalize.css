@@ -10643,6 +10643,7 @@ background-image: linear-gradient(
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 3rem;
 }
 
 .project-content-wrapper {
