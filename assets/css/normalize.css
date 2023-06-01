@@ -6138,6 +6138,7 @@ strong {
 
 .post-name-heading {
   color: #fff;
+  font-size: 20px;
 }
 
 .post-item-content-info {
@@ -6163,7 +6164,7 @@ strong {
   -ms-flex-align: start;
   align-items: flex-start;
   border: 1px solid #000;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color:rgb(0 0 0 / 40%);
   opacity: 1;
   -webkit-transition: background-color 300ms ease;
   transition: background-color 300ms ease;
